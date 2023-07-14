@@ -52,7 +52,7 @@ To run the contract, follow these steps:
 * Go to [remix](remix.ethereum.org) IDE.
 * Paste the contract in the IDE.
 * Compile the contract.
-* Select the `Injected Provide - Metamask` as the environment in Deploy tab.
+* Select the `Injected Provider - Metamask` as the environment in Deploy tab.
 * Paste you contract address in remix and click on `Deploy`.
 * Interact with your contract in remix!!
 
