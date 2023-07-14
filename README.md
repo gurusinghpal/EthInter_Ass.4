@@ -39,18 +39,13 @@ To run the contract, follow these steps:
    ```bash
     npm install @openzeppelin/contracts
     ```
-   
-5. Start a blockchain locally by running the command:
-   
-   ```bash
-   npx hardhat node
-   ```
 
-6. Deploy the DegenToken smart contract to Fuji (C-Chain) Network by running the deployment script:
+
+4. Deploy the DegenToken smart contract to Fuji (C-Chain) Network by running the deployment script:
 
   ```bash
-  npx hardhat run scripts/deploy.js --network fuji
-  ```
+     npx hardhat run scripts/deploy.js --network fuji
+   ```
 
 ### Executing program
 
