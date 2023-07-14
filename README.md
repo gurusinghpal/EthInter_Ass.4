@@ -43,9 +43,9 @@ To run the contract, follow these steps:
 
 4. Deploy the DegenToken smart contract to Fuji (C-Chain) Network by running the deployment script:
 
-  ```bash
+     ```bash
      npx hardhat run scripts/deploy.js --network fuji
-   ```
+      ```
 
 ### Executing program
 
